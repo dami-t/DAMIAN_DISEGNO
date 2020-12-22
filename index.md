@@ -1,3 +1,6 @@
-# Welcome to my blog
+# Welcome to @damian_disegno 
 
-I'm glad you are here. I plan to talk about ...
+Damian Disegno is a fresh brand in the world of design that seeks to change the way of thinking about design.
+We change the way of thinking about design leaving behind design itself to think about people, the environment and their ideas
+
+If you have an IDEA, we have a DESING solution
