@@ -2,12 +2,14 @@ title: DAMIAN_DISEGNO
 author: dami-t
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  If you have an IDEA, we are your DESING solution.
+             If you have an IDEA, we are your DESING solution.
+
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
 instagram_username: your-github-handle # DO NORT include the @ character, or else the build will fail!
+
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
